@@ -2,5 +2,5 @@
 
 Install Requirments
 
-Run command pythong manage.py runserver
+Run command python manage.py runserver
 
